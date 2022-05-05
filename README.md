@@ -19,4 +19,11 @@ In this module, precipitation and weather data was analyzed from 9 weather stati
 
 The temperatures in Oahu are relatively consistent year round, suggesting that a Surf 'n Shake shop would be successful throughout all months of the year. 
 
-To gather more insight into the Oahu weather patterns, two additional queries were performed to compare precipitation in June vs December. In June, the average precipitation is 0.13 with a standard deviation of 0.33, whereas the average precipitation in December was 0.22 with a standard deviation of 0.54. Overall, the rainfall is very similar in the months of June and December, and the level of precipitation should not have much effect on the business. 
+To gather more insight into the Oahu weather patterns, two additional queries were performed to compare precipitation in June vs December. In June, the average precipitation is 0.13 with a standard deviation of 0.33, whereas the average precipitation in December was 0.22 with a standard deviation of 0.54. Overall, as seen in the figures below, the rainfall is very similar in the months of June and December, and the level of precipitation should not have much effect on the business. 
+
+##### Figure 1: June Precipitation
+![image](https://github.com/lucymccanna/surfs_up/blob/main/Resources/june_precip_plot.png)
+
+##### Figure 2: December Precipitation
+![image](https://github.com/lucymccanna/surfs_up/blob/main/Resources/dec_precip_plot.png)
+
